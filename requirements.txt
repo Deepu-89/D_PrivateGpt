@@ -1,0 +1,10 @@
+langchain
+openai
+pinecone-client
+python-dotenv
+tiktoken
+pypdf
+docx2txt
+wikipedia
+doctran
+
