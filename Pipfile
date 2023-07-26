@@ -15,6 +15,7 @@ wikipedia = "*"
 doctran = "*"
 streamlit = "*"
 pandas = "*"
+chromadb = "*"
 
 [dev-packages]
 ipykernel = "*"
